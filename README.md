@@ -5,7 +5,7 @@
 ## Install
 
 ```
-npm install react-jss-preset-civicsource --save-dev
+npm install react-jss-preset-civicsource -S
 ```
 
 ## Usage
