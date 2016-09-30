@@ -1,6 +1,6 @@
 {
   "name": "react-jss-preset-civicsource",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Shareable react-jss preset to be used in CivicSource client applications",
   "main": "lib/index.js",
   "scripts": {
